@@ -8,8 +8,7 @@ Ideas for programs to be used with ip100 command:
 - some_funky_home_built_ad-hoc_family_server_software_without_any_auth
 - any server software without authentication intended for personal use or for a small group of trusted naive people
 
-# examples:
-# (for Linux, macOS, Windows etc.)
+# examples (for Linux, macOS, Windows etc.):
 
 # install ip100
 $ go get github.com/fgergo/ip100
