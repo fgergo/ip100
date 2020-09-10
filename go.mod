@@ -1,4 +1,4 @@
-module ip100
+module github.com/fgergo/ip100
 
 go 1.14
 
